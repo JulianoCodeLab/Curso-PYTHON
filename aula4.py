@@ -12,7 +12,7 @@ print(objeto)
 
 
 #----------------------------------------------------------------#
-#funciona tambem com string
+#funciona tambem com string, ele concatena as novas strings
 
 contadorStr = '1'
 
