@@ -31,7 +31,6 @@ while contador <= 100:
         break
 
 
-
 print('Acabou!')
 
 #sem o if ele contaraa até 11
