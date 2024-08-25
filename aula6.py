@@ -7,9 +7,11 @@ qtd_colunas = 5
 
 linha = 1
 
-while linha <=qtd_linhas:
+#Usado para criar tabelas, while dentro do while
+while linha <= qtd_linhas:
     coluna = 1
 
+#while interno.
     while coluna <= qtd_colunas:
         print(f'{linha=}, {coluna=}')
         coluna += 1
