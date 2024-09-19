@@ -17,4 +17,5 @@ while linha <= qtd_linhas:
         coluna += 1
     linha += 1
 
+
 print('Acabou!')
